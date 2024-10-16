@@ -1,0 +1,66 @@
+#body{
+    background-color: yellow;
+}
+
+.costext {
+    position: relative;
+    width: 90%;
+    height: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    border: none;
+    background-position: center;
+    background-color: #dfdcdc;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 400;
+  }
+#h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: darkcyan;
+    font-weight: bold;
+}
+#h3{
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.logo{
+    text-align: center;
+    height: 40%;
+    width: 100%;
+    background-color: #535353;
+    padding: 0px;
+}
+#links{
+    position: relative;
+    background-position: center;
+    height: 20%;
+    width: 100%;
+    padding: 10px;
+    background-color:#535353;
+    color: orange;
+    text-align: center;  
+}
+#p{
+    font-weight: bold;
+}
+.img1{
+    position: relative;
+    text-align: center;
+    scale: 90%;
+}
+#wiki{
+    color: orange;
+}
+.footer{
+    text-align: center;
+    background-color:darkorchid;
+    width: 100%;
+}
+#h2{
+    font-family: 'Times New Roman', Times, serif;
+}
